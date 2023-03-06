@@ -1,5 +1,5 @@
 {
-  "name": "colorify",
+  "name": "rahulcolorify",
   "version": "1.0.0",
   "description": "A library to colorify your console",
   "main": "./lib/index.js",
