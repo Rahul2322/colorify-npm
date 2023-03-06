@@ -1,0 +1,29 @@
+{
+  "name": "colorify",
+  "version": "1.0.0",
+  "description": "A library to colorify your console",
+  "main": "./lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul2322/colorify-npm.git"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify logs"
+  ],
+  "author": "Rohit <rohitmsingh86@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul2322/colorify-npm/issues"
+  },
+  "homepage": "https://github.com/Rahul2322/colorify-npm#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "files": ["lib/**/*"]
+}
